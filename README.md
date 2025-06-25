@@ -5,4 +5,6 @@ Navigate a challenging monochromatic maze. Test your focus and reflexes in this 
 
 ---
 
+![Screenshot](https://github.com/ChrisPirillo/monochromaze/blob/main/assets/screenshot.png?raw=true)
+
 * Try it now: [https://pirillo.com/arcade/monochromaze.html](https://pirillo.com/arcade/monochromaze.html)
